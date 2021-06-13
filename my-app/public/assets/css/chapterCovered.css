@@ -177,7 +177,9 @@ width:80%;
   letter-spacing: -0.68px;
   color: #ffffff;
 }
-
+.chaptercoverd_img {
+  margin-left: 111px;
+}
 
 
 .Create-custom-landin1-getfreebook {
@@ -269,7 +271,7 @@ width:80%;
   height: 18px;
 }
 .Chapters-weve-cover {
-  width:246px;
+  width:206px;
   font-size: 21px;
   margin-bottom: 0px;
   height: 32px;
@@ -284,7 +286,7 @@ width:80%;
 }
 .things-learn-spacing{
   margin-left: 2px;
-  
+  width: 300px;
 }
 .donePercentage{
   margin-left: 2px;
@@ -345,5 +347,9 @@ width:80%;
 .freechapteBTN{
   padding-left: 68px;
   top: 11px;
+}
+
+.chaptercoverd_img {
+  margin-left: 104px;
 }
 }

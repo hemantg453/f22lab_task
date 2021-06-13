@@ -216,9 +216,11 @@ justify-content: center;
   }
 
   .Learn-Problem-Solving-container {
-    width: 1118px;
-    margin-left: 165px;
-    margin-top: 99px;} 
+   
+    width: 1108px;
+    margin-left: 226px;
+    margin-top: 99px;
+} 
 
 .Learn-problem-solvin {
   width: 601px;
@@ -248,14 +250,50 @@ justify-content: center;
   color: #696871;
 } 
 
+.btnprice{
+  top: 79px;
+}
+
 @media only screen and (max-width: 600px) {
+  .btnprice{
+    width: 133px;
+  }
+  .Create-custom-landin-pages-omega {
+    width: 279px;
+    height: 70px;
+    margin: 9px 0px 0px 0px;
+    font-family: CircularStd;
+    font-size: 15.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: -0.59px;
+    color: #696871;
+}
+  .Learn-problem-solvin {
+    width: 57px;
+    height: 63px;
+    margin: 0 200px 0 0px;
+    font-family: CircularStd;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: #19191b;
+}
 
   .Learn-Problem-Solving-container {
+    width: 323px;
     margin-left:1px;
     margin-top: 30px;} 
   .BG {
    
-    padding: 87.3px 220.5px 111px 11px;
+    padding: 87.3px 0.5px 111px 1px;
+    margin-top: 132px;
+    width: 299.5px;
 
     
 }  
@@ -263,28 +301,57 @@ justify-content: center;
 {
   margin-top: -35px;
   margin-left: 7px;
+  width: 377px;
+}
+
+.Absolutely-The-Enva {
+  width: 260px;
+  height: 50px;
+  margin: 0px 0 0 19px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: -0.45px;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 
 .Pricing-Plans {
 
-    width: 353px;
-   
+    width:248px;
+    font-size: 31px;
     margin: 0 0 16px 0px;
    
   }
 
 
   .Create-custom-landin {
-    width: 352px;
+    width: 283px;
    
     margin: 0px 68px 13px 0px;
    
  
   }
 
+  .Can-I-use-Omega-for {
+    width: 281px;
+    height: 28px;
+    margin: 0 0px 0px 19px;
+    font-family: CircularStd;
+    font-size: 17.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #ffffff;
+}
+
   .card-width {
-    width: 347px;
+    width: 271px;
 }
 
 

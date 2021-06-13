@@ -51,9 +51,9 @@ const coveredChapter = () => {
         </div>
         <div className="row chapter-card-size">
           <div className="col-sm-4 col-xs-4 ">
-            <div>
+            <div className="chaptercoverd_img">
               <img
-                style={{ marginLeft: "33%" }}
+                
                 src={process.env.PUBLIC_URL + "/assets/images/read.png"}
               />
             </div>
@@ -64,9 +64,9 @@ const coveredChapter = () => {
             </p>
           </div>
           <div className="col-sm-4 col-xs-4 ">
-            <div>
+            <div className="chaptercoverd_img">
               <img
-                style={{ marginLeft: "33%" }}
+
                 src={process.env.PUBLIC_URL + "/assets/images/read.png"}
               />
             </div>
@@ -77,9 +77,9 @@ const coveredChapter = () => {
             </p>
           </div>
           <div className="col-sm-4 col-xs-4 ">
-            <div>
+            <div className="chaptercoverd_img">
               <img
-                style={{ marginLeft: "33%" }}
+
                 src={process.env.PUBLIC_URL + "/assets/images/read.png"}
               />
             </div>

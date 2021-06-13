@@ -156,8 +156,8 @@ const Price = () => {
             <h1 ><span className="Learn-problem-solvin">Learn Problem Solving</span></h1>
             <div className="Create-custom-landin-pages-omega">Create custom landing pages with Omega that converts more visitors than any website.</div>
                 </div>
-                <div class="col-sm-4 col-xs-4">
-                <button type="button" class="btn btn-danger" style={{top: "100px",marginTop:"50px"}}>Get this book</button>
+                <div class="col-sm-4 col-xs-4 btnprice">
+                <button type="button" class="btn btn-danger" >Get this book</button>
                 </div>
             </div>
            
