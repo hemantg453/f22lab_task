@@ -41,12 +41,11 @@
 /* MOBILE DEVISE */
 
 @media only screen and (max-width: 600px) {
-    .brand_logo img
-    {
-        width: 65px;
+    .brand_logo
+    {    width: 168px;
         height: 20px;
         margin-left: 12px;
-        margin-top: 20px;
+        margin-top: 56px;
     }
 
     .footer_rght_btn
