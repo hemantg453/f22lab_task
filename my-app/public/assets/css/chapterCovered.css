@@ -1,0 +1,349 @@
+.chapter_card{
+width:80%;
+}
+.Chapters-weve-cover {
+    width:867px;
+    height: 63px;
+    margin: 0 0 16px;
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+  }
+
+ 
+  .chapter_section {
+    padding-left: 25px;
+    height: 144px;
+    padding-right: 26px;
+    width: 118px;
+    padding-top: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+  }
+
+  .chapter_num{
+    width: 49px;
+    height: 160px;
+    font-family: CircularStd;
+    font-size: 126px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -3.94px;
+    color: #413e65;
+  }
+  .Chapter-01 {
+    width: 411px;
+    height: 25px;
+    margin: 0 52px 8px 101px;
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #5454d4;
+  }
+  .What-is-problem-solv {
+    width: 411px;
+    height: 28px;
+    margin: 8px 52px 28px 101px;
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    color: #19191b;
+  }
+
+  .chapter-info {
+    width: 463px;
+    height: 105px;
+    margin: 28px 0 0 101px;
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #19191b;
+  }
+  
+  .chapter_oval_right {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin: -10.5% 0 145px 78%;
+    padding: 24px 20px 24px 21px;
+    background-color: #5454d4;
+
+  }
+
+  .chapter_oval_right1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin: -18% 0 145px -2%;
+    padding: 24px 20px 24px 21px;
+    background-color:white;
+  }
+
+  .Solve-Daily-Problems {
+    width: 247px;
+    height: 28px;
+    margin: 38px 16px 13px 17px;
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    text-align: center;
+    color: #19191b;
+  }
+
+  .With-lots-of-unique {
+    width: 280px;
+    height: 76px;
+    margin: 13px 0 0;
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    text-align: center;
+    color: #696871;
+  }
+  .chapter-card-size
+  {
+    width: 87%;
+  }
+
+  .things-learn
+  {
+    top: -49px;
+    left: 35px;
+  }
+  .things-learn-card
+  {
+    height: 77px;
+    width: 271px;
+  }
+
+.things-learn-spacing{
+  
+  width: 939px;
+
+}
+
+
+
+.free-chapter-book-card {
+  width: 1111px;
+  height: 180px;
+  margin: 27px 0.5px 0 0;
+  padding: 32px 50px 27px 10px;
+  border-radius: 9px;
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+  background-color: #413e65;
+}
+
+.Get-a-free-chapter-o {
+  width: 601px;
+  height: 28px;
+  margin: 14px 172px 11px -125px;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #ffffff;
+}
+
+
+
+.Create-custom-landin1-getfreebook {
+  width: 372px;
+  height: 50px;
+  margin: 11px 182px 18px 44px;
+  font-family: CircularStd;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: -0.51px;
+  color:rgba(255, 255, 255, 0.7)
+}
+
+.freechapteBTN
+{
+  top:52px
+}
+
+.K {
+  width: 125px;
+  height: 63px;
+  margin: 0 72px 16px 86px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  text-align: center;
+  color: #5454d4;
+}
+
+.People-are-already-r1 {
+  width: 283px;
+  height: 70px;
+  margin: 16px 0 0;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: #696871;
+}
+
+@media only screen and (max-width: 600px) {
+  .chapter-card-size {
+    margin-left: -18px;
+    
+}
+.People-are-already-r1
+{
+  width: 171px;
+    height: 105px;
+    margin-top: 7px;
+    margin-left: 44px;
+}
+.Chapter-01
+{
+  margin-left: 30px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  width: 64px;
+}
+.chapter-info {
+  width: 169px;
+  height: 100px;
+  margin: -8px 0 0 -9px;
+  font-family: CircularStd;
+  font-size: 12.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #19191b;
+}
+.What-is-problem-solv
+{
+  font-size: 13.6px;
+  margin-left: 0px;
+  width: 136px;
+  height: 18px;
+}
+.Chapters-weve-cover {
+  width:246px;
+  font-size: 21px;
+  margin-bottom: 0px;
+  height: 32px;
+}
+
+.thingsYouLearn{
+  width: 229px;
+}
+.chapter_card {
+  left: 27px;
+  width: 182px;
+}
+.things-learn-spacing{
+  margin-left: 2px;
+  
+}
+.donePercentage{
+  margin-left: 2px;
+  
+}
+.Create-custom-landin1
+{
+  margin-left: 37px;
+  width: 153px;
+  margin-right: 0px;
+  margin-bottom: 14px;
+  font-size: 11.9px;
+}
+
+.chaptercount{
+  left:0px;
+}
+.free-chapter-book-card
+{
+  width: 274px;
+  height: 363px;
+  left: 34px;
+}
+.Get-a-free-chapter-o{
+  width: 216px;
+  height: 38px;
+  margin: -1px 163px 0px 1px;
+  font-family: CircularStd;
+  font-size: 17.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #ffffff;
+}
+
+.Create-custom-landin1-getfreebook
+{
+  
+  margin-left: 0px;
+  width: 260px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 19px;
+
+}
+.K
+{
+  margin-left: 77px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    height: 48px;
+    width: 0px;
+}
+
+
+.freechapteBTN{
+  padding-left: 68px;
+  top: 11px;
+}
+}

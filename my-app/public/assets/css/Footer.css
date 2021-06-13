@@ -1,0 +1,84 @@
+.footer_rght_btn
+{
+    
+    top: 22px;
+    right: 281.188;
+    left: 412.109;
+    padding-left: 61px;
+    
+  
+
+    
+}
+.brand_logo img
+{
+    width: 71px;
+    height: 28px;
+    margin-left: 31px;
+    margin-top: 20px;
+}
+
+
+.footer_mdd_sec{
+    top: 23px;
+}
+
+
+.footer_mdd1
+{
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+.footer_mdd2
+{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+
+/* MOBILE DEVISE */
+
+@media only screen and (max-width: 600px) {
+    .brand_logo img
+    {
+        width: 65px;
+        height: 20px;
+        margin-left: 12px;
+        margin-top: 20px;
+    }
+
+    .footer_rght_btn
+{
+    
+
+    right: 281.188;
+    left: 412.109;
+
+    top: 37px;
+    padding-left: 28px;
+  
+
+    
+}
+  
+    .footer_mdd_sec{
+        top:22px
+    }
+
+    
+    .footer_mdd1
+    {
+        margin-left: 4%;
+    }
+    
+  
+    .footer_mdd2
+    {
+
+        margin-right: 2%;
+        margin-left: 0%;
+    }
+ 
+  }

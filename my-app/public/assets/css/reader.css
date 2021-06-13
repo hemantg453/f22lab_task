@@ -1,0 +1,240 @@
+.rdr_card {
+    height: 254px;
+    width: 278px;
+}
+.Reviews-from-readers {
+    width: 608px;
+    height: 63px;
+    margin: 0 0 16px 133px;
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+  }
+
+  .check-review
+  {
+      margin-left: 20%;
+      margin-top: 3%;
+  }
+
+  .Must-have-book-for-s {
+    width: 240px;
+    height: 114px;
+    font-family: CircularStd;
+    font-size: 18.9px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #19191b;
+  }
+  .Trashae-Hubbard {
+    width: 115px;
+    height: 24px;
+    font-family: CircularStd;
+    font-size: 13.9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: #19191b;
+  }
+  .From-Amazoncom {
+    width: 105px;
+    height: 19px;
+
+    margin-top: -20px;
+
+    font-family: CircularStd;
+    font-size: 10.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+  }
+
+  .About-the-author {
+      margin-top: 5%;
+    width: 502px;
+    height: 63px;
+    font-family: CircularStd;
+    font-size: 54px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    text-align: center;
+    color: #19191b;
+  }
+
+  .Author_profile {
+    width: 244px;
+    height: 244px;
+    margin: 55px 71px 31px 0;
+    object-fit: contain;
+    border-radius: 50%;
+  }
+
+  .Joseph-Williams {
+    width: 158px;
+    height: 28px;
+    margin: 0 351px 26px 0;
+    font-family: CircularStd;
+    font-size: 21.6px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    text-align: center;
+    color: #19191b;
+  }
+
+  .Hey-My-name-is-Jose {
+    width: 509px;
+    height: 252px;
+    margin: 26px 0 0;
+    font-family: CircularStd;
+    font-size: 14.4px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+  }
+  .Hey-My-name-is-Jose .text-style-1 {
+    color: #19191b;
+  }
+  .card-reader2
+  {
+      left: -100px;
+  }
+  .card-reader3
+  {
+    left: -200px;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .rdr_card {
+        height: 254px;
+        width: 278px;
+    }
+    .Reviews-from-readers {
+        width: 469px;
+        margin-left: 0px;
+      
+      }
+
+      .card-reader {
+        padding-left: 57px;
+        bottom: 10px;
+    }
+    .card-reader2
+    {
+        left: 40px;
+        width: 313px;
+    }
+    .card-reader3
+    {
+        left: 40px;
+        top: 10px;
+    }
+      
+    
+      .check-review
+      {
+          margin-left: 10%;
+          margin-top: 3%;
+      }
+    
+      .Must-have-book-for-s {
+        width: 240px;
+        height: 114px;
+        font-family: CircularStd;
+        font-size: 18.9px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: italic;
+        line-height: 1.86;
+        letter-spacing: -0.59px;
+        color: #19191b;
+      }
+      .Trashae-Hubbard {
+        width: 115px;
+        height: 24px;
+        font-family: CircularStd;
+        font-size: 13.9px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: -0.59px;
+        color: #19191b;
+      }
+      .From-Amazoncom {
+        width: 105px;
+        height: 19px;
+    
+        margin-top: -20px;
+    
+        font-family: CircularStd;
+        font-size: 10.4px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.75;
+        letter-spacing: -0.45px;
+        color: #696871;
+      }
+    
+      .About-the-author {
+          margin-top: 5%;
+        width: 502px;
+        height: 63px;
+        font-family: CircularStd;
+        font-size: 54px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.17;
+        letter-spacing: -1.69px;
+        text-align: center;
+        color: #19191b;
+      }
+    
+      .Author_profile {
+       
+        margin: 55px 0px 31px 64;
+       
+      }
+    
+      
+    
+      .Hey-My-name-is-Jose {
+       
+        font-size: 20.4px;
+       
+      }
+
+      .mobile-card-view {
+        margin-left: 63px;
+    }
+   .Create-custom-landin-mobile-view
+   {
+    margin-left: 85px;
+   }
+
+  }

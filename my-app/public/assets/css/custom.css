@@ -1,0 +1,143 @@
+.Rectangle {
+  border: none;
+  margin-left: 16%;
+  width: 64%;
+
+  margin-top: 13%;
+    border-radius: 10px;
+    box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+   
+  }
+
+  
+  @media screen and (max-width: 992px) {
+      .Rectangle {
+        border: none;
+        margin-left: 16%;
+        width: 64%;
+
+        margin-top: 35%;
+          border-radius: 10px;
+          box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+         
+        }
+    }
+
+.signup-logo{
+  width: 79px;
+  height: 30px;
+  margin: 0 225px 30px 223px;
+  font-family: CircularStd;
+  font-size: 24px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.75px;
+  color: #19191b;
+}
+
+.form-signup-text1{
+  width: 47%;
+  /* height: 56px; */
+  margin: 5% 0% 0% 24%;
+  font-family: CircularStd;
+  font-size: 50px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.93;
+  letter-spacing: -1.03px;
+  text-align: center;
+  color: #1d293f;
+}
+
+.main-container-form{
+  width: 527px;
+height: 670px;
+margin: 0px 0 0 0;
+padding: 50px 57px 50px 55px;
+border-radius: 10px;
+box-shadow: 0 20px 61px 0 rgba(65, 62, 101, 0.14);
+background-color: #ffffff;
+}
+
+
+.form-signup-text2{
+  /* height: 39px; */
+  margin: 5% 18% 5% 13%;
+  font-family: CircularStd;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.66px;
+  text-align: center;
+  color: #696871
+}
+
+.input-signup{
+  width: 71%;
+  margin: 0% 10% 0% 8%;
+  padding: 3% 12% 3% 7%;
+  border-radius: 10px;
+  border: solid 1px #eae9f2;
+  background-color: #ffffff;
+}
+
+.checkbox-signup{
+  
+  margin-left: -5%;
+  border-radius: 3px;
+  border: solid 1px #5454d4;
+  background-color: #5454d4;
+}
+
+.checkbox-lable1{
+  width: 20%;
+
+  margin: 0% 0% 0% 0%;
+    font-family: CircularStd;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: black;
+}
+
+.checkbox-lable2{
+  font-family: CircularStd;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: black;
+}
+
+.btn-form{
+  width: 20%;
+  height: 10px;
+  margin: 0% 0% 3% 0%;
+  padding: 3% 64% 7% 10%;
+  border-radius: 10px;
+  border: solid 1px #c31a12;
+  background-color: #f04037;
+}
+
+.btn-form-text{
+  padding-left: 51px;
+    font-family: CircularStd;
+    font-size: 21px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.66px;
+    text-align: center;
+    color: #ffffff;
+}
