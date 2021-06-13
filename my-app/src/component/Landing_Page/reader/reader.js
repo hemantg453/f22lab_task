@@ -16,7 +16,7 @@ const Reader = () => {
             <div className="Learn-Problem-Solving-container">
                 <div>
                     <h1 className="Reviews-from-readers">Reviews from readers</h1>
-                    <div className="Create-custom-landin Create-custom-landin-mobile-view">Create custom landing pages with Omega that converts more visitors than any website.</div>
+                    <div className="Create-custom-landin Create-custom-landin-mobile-view" style={{color:"#696871"}}>Create custom landing pages with Omega that converts more visitors than any website.</div>
                 </div>
                 <div>
                     <div className="row mobile-card-view">
@@ -143,9 +143,9 @@ const Reader = () => {
                     <h1 className="About-the-author">About the author</h1>
                 </div>
                 <div className=" row">
-                    <div class="col-sm-4 col-xs-4 " style={{ left: "98px" }}>
+                    <div class="col-sm-4 col-xs-4 author-profile" >
                         <div className="Author_profile">
-                            <img style={{ width: "244px" }}
+                            <img 
                                 src={
                                     process.env.PUBLIC_URL + "/assets/images/author.png"
                                 } />

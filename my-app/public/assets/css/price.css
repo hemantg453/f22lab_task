@@ -26,9 +26,9 @@
 
 
   .Create-custom-landin {
-    width: 471px;
+    width: 400px;
     height: 70px;
-    margin: 0px 68px 13px 201px;
+    margin: 0px 68px 13px 254px;
     font-family: CircularStd;
     font-size: 18.9px;
     font-weight: normal;
@@ -216,7 +216,8 @@ justify-content: center;
   }
 
   .Learn-Problem-Solving-container {
-    margin-left: 218px;
+    width: 1118px;
+    margin-left: 165px;
     margin-top: 99px;} 
 
 .Learn-problem-solvin {
